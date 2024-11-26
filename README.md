@@ -5,6 +5,10 @@
 
 - Technologies Used
 
+- Installation
+
+- Usage
+
 - Project Structure
 
 - Credits
@@ -32,6 +36,16 @@
 
 - Google Fonts: For custom fonts.
 
+# Installation
+To run this project locally, follow these steps:
+
+1. **Clone the repository:**
+*git clone https://github.com/yourusername/spotify-web-player.git*
+
+2. **Navigate to the project directory:**
+*cd spotify-web-player*
+Open spotify.html in your preferred web browser.
+
 # Usage
 - Navigate through the sidebar to access Home and Search.
 
@@ -44,29 +58,11 @@
 # Project Structure
 
 spotify-web-player/
-├── utilities/
-│   ├── logo.png
-│   ├── library_icon.png
-│   ├── backward_icon.png
-│   ├── forward_icon.png
-│   ├── card1img.jpeg
-│   ├── card2img.jpeg
-│   ├── card3img.jpeg
-│   ├── card4img.jpeg
-│   ├── card5img.jpeg
-│   ├── card6img.jpeg
-│   ├── OIP.jpeg
-│   ├── album_picture.jpeg
-│   ├── player_icon1.png
-│   ├── player_icon2.png
-│   ├── player_icon3.png
-│   ├── player_icon4.png
-│   ├── player_icon5.png
-│   ├── backward_icon.png
-│   └── forward_icon.png
 ├── README.md
+├── utilities
 ├── spotify.css
 └── spotify.html
+
 
 # Credits
 - Icons: Font Awesome
