@@ -1,4 +1,84 @@
-# Spotify-Web-Music-Player-Clone
+# Spotify Web Player Clone
+
+A responsive web-based music player application that mimics the Spotify web interface.
+
+## 🛠️ Tech Stack
+
+- **Frontend**
+  - HTML5
+  - CSS3
+  - Font Awesome Icons
+  - Google Fonts (Montserrat)
+  - Material Icons
+
+## 📁 Project Structure
+
+```
+Spotify-Web-Music-Player-Clone/
+├── index.html           # Main application file
+├── style.css           # Stylesheet
+├── utilities/          # Static assets
+│   ├── logo.png
+│   ├── backward_icon.png
+│   ├── forward_icon.png
+│   ├── library_icon.png
+│   ├── player_icon1.png
+│   ├── player_icon2.png
+│   ├── player_icon3.png
+│   ├── player_icon4.png
+│   ├── player_icon5.png
+│   ├── album_picture.jpeg
+│   ├── card1img.jpeg
+│   ├── card2img.jpeg
+│   ├── card3img.jpeg
+│   ├── card4img.jpeg
+│   ├── card5img.jpeg
+│   ├── card6img.jpeg
+│   └── OIP.jpeg
+```
+
+## 🎨 UI Components
+
+### Sidebar
+- Home navigation
+- Search functionality
+- Library section
+- Playlist creation
+- Podcast browsing
+
+### Main Content
+- Recently played section
+- Trending music
+- Featured songs
+- Album collections
+- Card-based layout
+
+### Music Player
+- Album art display
+- Song information
+- Playback controls
+- Progress bar
+- Volume control
+- Additional controls (mic, queue, devices)
+
+## 🔗 External Resources
+
+- Font Awesome 6.7.1
+- Google Fonts (Montserrat)
+- Material Icons
+
+## 🚀 Getting Started
+
+1. Clone the repository
+   ```bash
+   git clone <repository-url>
+   cd Spotify-Web-Music-Player-Clone
+   ```
+
+2. Open `index.html` in your web browser
+
+
+
 
 # Table of Contents
 - Features
@@ -15,17 +95,6 @@
 
 - License
 
-# Features
-
-- **Navigation:** Access Home and Search features through the sidebar.
-
-- **Library Management:** Create and browse playlists and podcasts.
-
-- **Recently Played:** Displays albums and songs recently played by the user.
-
-- **Trending and Featured Content:** Shows trending songs and featured albums based on location.
-
-- **Music Player:** Functional player with playback controls, volume adjustment, and album artwork display.
 
 # Technologies Used
 - HTML5: For structuring the web pages.
