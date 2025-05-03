@@ -1,6 +1,6 @@
-# Spotify Web Player Clone
+# Spotify Web Player - HomePage Clone
 
-A responsive web-based music player application that mimics the Spotify web interface.
+A visually accurate and responsive replica of the Spotify homepage, built using HTML, CSS, and Bootstrap.
 
 ## 🛠️ Tech Stack
 
